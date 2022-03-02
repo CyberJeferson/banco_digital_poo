@@ -1,0 +1,131 @@
+run:
+*****************************
+*****************************
+****SISTEMA BANCOS UNIDOS****
+*****************************
+*****************************
+Quantos C. deseja cadastrar?
+2
+Digite o nome do cliente
+SUPER MAN
+Digite o nome do banco:
+KRYPTO MOEDA
+Digite o nome do cliente
+SEU CLAYSSON
+Digite o nome do banco:
+TABAJARA BANK
+*********************************
+*********************************
+****SISTEMA WORLDBANK************
+*********************************
+*********************************
+1 Ver saldo, 2 Sacar, 3 Depositar, 4 Transferir
+Escolha uma opção:
+3
+Digite o código do cliente:
+0
+Digite o valor:
+100000000,00
+Tipo conta: 1 Corrente / 2 Poupança
+1
+Deposito Realizado!
+*********************************
+*********************************
+****SISTEMA WORLDBANK************
+*********************************
+*********************************
+1 Ver saldo, 2 Sacar, 3 Depositar, 4 Transferir
+Escolha uma opção:
+3
+Digite o código do cliente:
+0
+Digite o valor:
+500000000,00
+Tipo conta: 1 Corrente / 2 Poupança
+2
+Deposito Realizado!
+*********************************
+*********************************
+****SISTEMA WORLDBANK************
+*********************************
+*********************************
+1 Ver saldo, 2 Sacar, 3 Depositar, 4 Transferir
+Escolha uma opção:
+4
+Digite o código do cliente:
+0
+Digite o valor:
+180,00
+Código do destinatário:
+1
+Tipo conta: 1 Corrente / 2 Poupança
+2
+Dinheiro Tranferido!
+*********************************
+*********************************
+****SISTEMA WORLDBANK************
+*********************************
+*********************************
+1 Ver saldo, 2 Sacar, 3 Depositar, 4 Transferir
+Escolha uma opção:
+4
+Digite o código do cliente:
+0
+Digite o valor:
+70000,00
+Código do destinatário:
+1
+Tipo conta: 1 Corrente / 2 Poupança
+1
+Dinheiro Tranferido!
+*********************************
+*********************************
+****SISTEMA WORLDBANK************
+*********************************
+*********************************
+1 Ver saldo, 2 Sacar, 3 Depositar, 4 Transferir
+Escolha uma opção:
+1
+Digite o código do cliente:
+0
+=====CONTA CORRENTE=======:
+Titular: SUPER MAN
+Agencia: 1
+Numero: 2
+Saldo: 99930000,00
+KRYPTO MOEDA
+=====CONTA POUPANÇA=======:
+Titular: SUPER MAN
+Agencia: 1
+Numero: 1
+Saldo: 499999820,00
+KRYPTO MOEDA
+*********************************
+*********************************
+****SISTEMA WORLDBANK************
+*********************************
+*********************************
+1 Ver saldo, 2 Sacar, 3 Depositar, 4 Transferir
+Escolha uma opção:
+1
+Digite o código do cliente:
+1
+=====CONTA CORRENTE=======:
+Titular: SEU CLAYSSON
+Agencia: 1
+Numero: 4
+Saldo: 70000,00
+TABAJARA BANK
+=====CONTA POUPANÇA=======:
+Titular: SEU CLAYSSON
+Agencia: 1
+Numero: 3
+Saldo: 180,00
+TABAJARA BANK
+*********************************
+*********************************
+****SISTEMA WORLDBANK************
+*********************************
+*********************************
+1 Ver saldo, 2 Sacar, 3 Depositar, 4 Transferir
+Escolha uma opção:
